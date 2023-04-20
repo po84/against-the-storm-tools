@@ -1,0 +1,4 @@
+*.code-workspace
+bin/
+data.db
+go/tmp
